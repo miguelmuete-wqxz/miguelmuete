@@ -19,7 +19,50 @@ Python
 Libros favoritos
 
 crimen y castigo
-
 Cien años de soledad
+frankenstain
+
+💻
+
+Mis proyectos
+
+GitHub
+
+Java
+Python
+HTML
+CSS
+Make code arcade
+
+contacto
+Correo: miguelmuetedon@gmail.com
+Nombre:Miguel angel muete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ...
